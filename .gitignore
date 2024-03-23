@@ -1,0 +1,4 @@
+#non prendere in considerazione l'ambiente
+
+.env
+.venv
