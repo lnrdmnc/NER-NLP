@@ -2,3 +2,4 @@
 bert-nlp/
 *.env
 *.venv
+spark/
