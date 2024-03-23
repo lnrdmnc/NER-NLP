@@ -1,3 +1,4 @@
 #non prendere in considerazione l'ambiente
+bert-nlp/
 *.env
 *.venv
